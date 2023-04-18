@@ -3,6 +3,42 @@
 /// For examples see Material Design color system: https://m2.material.io/design/color/the-color-system.html
 
 :root {
-    --color-primary: #5721f2;
-    --color-on-surface: #000;
+    //colors
+    --color-primary-100: #dee0ed;
+    --color-primary-200: #c9cbe2;
+    --color-primary-300: #b3b6d6;
+    --color-primary-400: #a2a6cd;
+    --color-primary-500: #9296c4;
+    --color-primary-600: #8a8ebe;
+    --color-primary-700: #7f83b6;
+    --color-primary-800: #7579af;
+    --color-primary-900: #6368a2;
+
+    --greyscale-100: #b8b8b8;
+    --greyscale-200: #898989;
+    --greyscale-300: #595959;
+    --greyscale-400: #363636;
+    --greyscale-500: #121212;
+    --greyscale-600: #101010;
+    --greyscale-700: #0d0d0d;
+    --greyscale-800: #0a0a0a;
+    --greyscale-900: #050505;
+
+    //font-sizes
+
+    --font-size-big: 2.4rem;
+    --font-size-small: 1.8rem;
+
+    //font font-weight
+    --font-weight-semibold: 700;
+    --font-weight-medium: 400;
+
+    //letter-spacing
+    --letter-spacing-normal: 0%;
+    --letter-spacing-small: -1%;
+
+    //border radius
+    --regular-border-radius: 16px;
+    --big-border-radius: 24px;
+
 }
